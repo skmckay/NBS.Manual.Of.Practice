@@ -1,0 +1,10 @@
+# Foundations of Nature-based solutions
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Key topics:  
+
+- Defining NbS for engineering applications.  
+- Problem-centric typology of NbS.  
+- Existing guidelines and standards (global, national, and regional).  
+- Principles of engineering design of NBS

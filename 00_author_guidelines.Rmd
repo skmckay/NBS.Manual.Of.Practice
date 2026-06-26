@@ -1,0 +1,11 @@
+# Author Guidelines {-}
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Insert content on issues like:  
+
+- ASCE MOP process  
+- Style  
+- Color schemes  
+- Figures and tables  
+- Document download and editing

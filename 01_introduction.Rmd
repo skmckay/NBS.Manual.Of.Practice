@@ -1,0 +1,13 @@
+# (PART) Manual of Practice {-} 
+
+# Introduction
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Key topics:  
+
+- Need for engineering-oriented NBS guidance: alternatives analysis, performance-based
+design, constructability considerations.  
+- How will the manual be delivered: modular, adaptable, accessible.  
+- Audience: engineers involved in analysis and design.  
+- Geography: US economic and legal context, but international technical applicability.

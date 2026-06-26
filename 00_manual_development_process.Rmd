@@ -1,0 +1,45 @@
+# (PART) Front Matter {-} 
+
+# Manual Development Process {-}
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Insert content.
+
+## Purpose  {-}
+Insert.
+
+## Outline  {-}
+Insert.
+
+```{r tab-outline, tab.cap="Proposed outline for a manual of practice on nature-based solutions"}
+#Create empty table
+Table00.outline <- as.data.frame(matrix(NA, nrow = 0, ncol = 3))
+colnames(Table00.outline) <- c("Chapter", "Main Ideas", "Chapter Leads")
+
+#Specify rows of the table
+Table00.outline[1,] <- c("(1) Introduction and purpose", "Need for engineering-oriented NBS guidance. How will the manual be delivered. Audience. Geographis scope", "McKay, Corwin, Dorman")  
+Table00.outline[2,] <- c("(2) Foundations of NbS", "TBD", "TBD")  
+Table00.outline[3,] <- c("(3) Qualitative foundations of project planning", "TBD", "TBD")  
+Table00.outline[4,] <- c("(4) Community Engagement", "TBD", "TBD")  
+Table00.outline[5,] <- c("(5) Analysis of NbS", "TBD", "TBD")  
+Table00.outline[6,] <- c("(6) Alternatives Analysis", "TBD", "TBD")  
+Table00.outline[7,] <- c("(7) Performance-based Design", "TBD", "TBD")  
+Table00.outline[8,] <- c("(8) Constructability", "TBD", "TBD")  
+Table00.outline[9,] <- c("(9) Project Establishment", "TBD", "TBD")  
+Table00.outline[10,] <- c("(10) Asset Management", "TBD", "TBD")  
+
+#Send output table rows into a single matrix
+rownames(Table00.outline) <- NULL
+knitr::kable(Table00.outline, align="llc")
+```
+
+
+## Timeline  {-}
+Insert.
+
+
+```{r fig-manual-timeline, fig.cap="Proposed timeline for development of a manual of practice"}
+knitr::include_graphics("images/00_ManualTimeline.png")
+```
+
