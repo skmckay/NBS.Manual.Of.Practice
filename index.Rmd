@@ -18,6 +18,9 @@ github-repo: skmckay/NBS.Manual.Of.Practice
 Introduce NBS.  
 Introduce ASCE.  
 Describe a manual of practice.  
+Lay out how this manual fits between interdisciplinary guidance (e.g., International Guidelines for NNBF) and feature-specific guidance (e.g., floodplain benching manuals).  
+Describe the role of subsequent NBS manuals (i.e., Appendices to this document?).  
+
 
 ## Points of contact {-}
 

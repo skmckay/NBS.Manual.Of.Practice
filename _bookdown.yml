@@ -7,4 +7,14 @@ rmd_files: [
 "00_manual_development_process.Rmd", 
 "00_author_guidelines.Rmd", 
 "01_introduction.Rmd", 
-"02_foundations.Rmd"]
+"02_foundations.Rmd", 
+"03_planning.Rmd", 
+"04_engagement.Rmd", 
+"05_analysis.Rmd", 
+"06_alternatives.Rmd", 
+"07_design.Rmd", 
+"08_constructability.Rmd", 
+"09_establishment.Rmd", 
+"10_asset_management.Rmd", 
+"11_references.Rmd",  
+"12_case_study_resources.Rmd"]

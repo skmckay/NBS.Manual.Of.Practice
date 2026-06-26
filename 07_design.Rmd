@@ -1,0 +1,12 @@
+# Performance-based design
+
+Author1, Author2, and Author3
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Key topics:  
+
+- Iterative design workflows.  
+- Integrated modeling to inform design.  
+- Hazard-resilient design and reliability analysis.  
+- Adaptability to shifting baselines: climate, land use, population growth.

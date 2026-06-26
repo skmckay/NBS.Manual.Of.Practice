@@ -1,0 +1,14 @@
+# Analysis of Nature-based solutions
+
+Author1, Author2, and Author3
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Key topics:  
+
+- Aligning levels of effort.  
+- Assessing project outcomes: economic, ecological, social.  
+- Assessing project performance: stability, resilience, sustainability.  
+- Estimating cost: capital, adaptive management, operations and maintenance, end of life.  
+- Non-monetary costs: social capital, political will, reversibility.  
+
