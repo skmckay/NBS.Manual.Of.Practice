@@ -13,3 +13,23 @@ design, constructability considerations.
 - How will the manual be delivered: modular, adaptable, accessible.  
 - Audience: engineers involved in analysis and design.  
 - Geography: US economic and legal context, but international technical applicability.
+
+## Example Heading 2
+
+Content goes here.  
+
+## Example Heading 2
+
+Content goes here.  
+
+### Example Subheading
+
+Content goes here. 
+
+```{r fig-ASCE1, fig.cap="Example of a figure"}
+knitr::include_graphics("images/00_ASCE_logo.png")
+```
+
+## Example Heading 3
+
+Content goes here.  

@@ -53,6 +53,7 @@ Director, Technical Community (EWRI/COPRI/CTA), American Society of Civil Engine
 RHocker at asce.org  
 City, State
 
+
 ```{r options, include=FALSE}
 #Markdown options
 knitr::opts_chunk$set(echo=FALSE, warning=FALSE, message = FALSE) 
@@ -80,4 +81,22 @@ AOC.col <- "#002E5D"
 AOC.col1 <- c("#A0291D", "#EB7A28", "#E39D1B", "#FFDB09", "#68954F", "#006955", "#47857D", "#006171", "#5BB6E7", "#4E4A84")  
 AOC.col2 <- c("#C2705F", "#F9A35F", "#FCB21B", "#FFEDB2", "#A8CC95", "#96D4CC", "#93BFBA", "#8CC1CD", "#BCE2F5", "#C4C1DF")  
 AOC.col3 <- c("#7E6A56", "#552318", "#AA534A", "#61524E", "#EEE1C3", "#E0C5B4", "#D5A897", "#CCC8C4")
+```
+
+
+
+```{r}
+#Example books
+
+#Quintana Go Fish
+#Book: https://vmahan1998.github.io/GoFish/
+#Github: https://github.com/vmahan1998/GoFish
+
+#NYBEM
+#Book: https://mvr-gis.github.io/NYBEM-Report/
+#Github: https://github.com/MVR-GIS/NYBEM-Report
+
+#EcoMod training course
+#Book: https://usace-wrises.github.io/USACE.EcoMod.Training/
+#Github: https://github.com/USACE-WRISES/USACE.EcoMod.Training
 ```

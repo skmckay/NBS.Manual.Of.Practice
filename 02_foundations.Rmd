@@ -10,3 +10,16 @@ Key topics:
 - Problem-centric typology of NbS.  
 - Existing guidelines and standards (global, national, and regional).  
 - Principles of engineering design of NBS
+
+
+## Example Heading 2
+
+Content goes here.  
+
+### Example Subheading
+
+Content goes here. Figure \@ref(fig:fig-ASCE2) automatic referencing looks like this. 
+
+```{r fig-ASCE2, fig.cap="Example of another figure"}
+knitr::include_graphics("images/00_ASCE_logo.png")
+```

@@ -1,7 +1,15 @@
 tab:tab-outline
 fig:fig-manual-timeline
+fig:fig-ASCE1
+fig:fig-ASCE2
 introduction
+example-heading-2
+example-heading-2-1
+example-subheading
+example-heading-3
 foundations-of-nature-based-solutions
+example-heading-2-2
+example-subheading-1
 qualitative-foundations-of-project-planning
 engagement-supporting-nbs-design
 analysis-of-nature-based-solutions
