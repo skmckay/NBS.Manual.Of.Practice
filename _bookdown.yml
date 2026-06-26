@@ -18,4 +18,5 @@ rmd_files: [
 "09_establishment.Rmd", 
 "10_asset_management.Rmd", 
 "11_references.Rmd",  
-"12_case_study_resources.Rmd"]
+"12_case_study_resources.Rmd",
+"13_terminology.Rmd"]

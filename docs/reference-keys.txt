@@ -2,6 +2,7 @@ tab:tab-outline
 fig:fig-manual-timeline
 fig:fig-ASCE1
 fig:fig-ASCE2
+tab:unnamed-chunk-2
 introduction
 example-heading-2
 example-heading-2-1
@@ -18,3 +19,5 @@ performance-based-design
 constructability
 project-establishment
 asset-management
+acronyms
+glossary

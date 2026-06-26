@@ -1,0 +1,24 @@
+# Terminology {-}
+
+List of terms used throughout.
+
+## Acronyms
+
+```{r tab.cap="Acronyms used in this manual of practice."}
+#Create empty table
+acronyms <- as.data.frame(matrix(NA, nrow = 0, ncol = 2))
+colnames(acronyms) <- c("Acronym", "Description")
+
+#Specify rows of the table
+acronyms[1,] <- c("ASCE", "American Society of Civil Engineers")
+acronyms[2,] <- c("NBS", "Nature-Based Solutions")
+
+#Send output table rows into a single matrix
+rownames(acronyms) <- NULL
+knitr::kable(acronyms, align="cl")
+```
+
+
+## Glossary  
+
+Insert terms.

@@ -11,7 +11,7 @@ github-repo: skmckay/NBS.Manual.Of.Practice
 
 <span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
 
-# Preface {-}
+# {-}
 
 ## What is this document? {-}
 
