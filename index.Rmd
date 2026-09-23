@@ -1,7 +1,7 @@
 ---
 title: "An Engineering Manual of Practice for Nature-Based Solutions"
 authors: "S. Kyle McKay, Emily Corwin, and Troy Dorman"
-Date: "June 2026"
+Date: "September 2026"
 site: bookdown::bookdown_site
 \documentclass: book
 output:
