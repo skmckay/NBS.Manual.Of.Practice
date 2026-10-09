@@ -4,7 +4,34 @@
 
 <span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
 
-Insert content.
+Insert content.  Describe the what (outline), who (roles), and when (timeline) of the manual.
+
+
+## Outline  {-}
+Insert.
+
+```{r tab-outline, tab.cap="Proposed outline for a manual of practice on nature-based solutions"}
+#Create empty table
+Table00.outline <- as.data.frame(matrix(NA, nrow = 0, ncol = 3))
+colnames(Table00.outline) <- c("Chapter", "Representative Themes", "Chapter Leads")
+
+#Specify rows of the table
+Table00.outline[1,] <- c("(1) Introduction and purpose", "Need for engineering-oriented NBS guidance, audience, geographic scope. Defining NBS and providing a typology of NBS.", "McKay, Corwin, Dorman")  
+Table00.outline[2,] <- c("(2) Qualitative foundations of project planning", "Engineering principles, systems context, primary and secondary design objectives, risk tolerance, constraints, design maturity targets, site assessment.", "TBD")  
+Table00.outline[3,] <- c("(3) Engagement by engineers", "Project management, interdisciplinary dialog, ways of knowing, ladder of participation, facilitation, co-production", "TBD")  
+Table00.outline[4,] <- c("(4) Site assessment", "TBD", "TBD") 
+Table00.outline[5,] <- c("(5) Analysis of NbS", "Levels of effort, assessing outcomes/benefits, project performance, monetary cost, non-monetary cost", "TBD")  
+Table00.outline[6,] <- c("(6) Alternatives Analysis", "Management measures, alternative development, decision support, trade-off analysis", "TBD")  
+Table00.outline[7,] <- c("(7) Performance-based Design", "Iterative workflows, integrated modeling, hazard resilience and reliability, adaptability", "TBD")  
+Table00.outline[8,] <- c("(8) Constructability", "Material selection, regulatory requirements, developing specifications, construction oversight", "TBD")  
+Table00.outline[9,] <- c("(9) Adaptive Management", "Compliance monitoring, performance monitoring, adaptive management, transition to operations", "TBD")  
+Table00.outline[10,] <- c("(10) Asset Management", "Condition assessment and inspection, operations, maintenance, repair, rehabilitation, decommissioning, life cycle budgeting", "TBD")  
+
+#Send output table rows into a single matrix
+rownames(Table00.outline) <- NULL
+knitr::kable(Table00.outline, align="llc")
+```
+
 
 ## Roles and Responsibilities  {-}
 
@@ -29,32 +56,6 @@ Table00.roles[9,] <- c("Chapter Contributors", "Author teams assembled by the Ch
 #Send output table rows into a single matrix
 rownames(Table00.roles) <- NULL
 knitr::kable(Table00.roles, align="cllc")
-```
-
-## Outline  {-}
-Insert.
-
-```{r tab-outline, tab.cap="Proposed outline for a manual of practice on nature-based solutions"}
-#Create empty table
-Table00.outline <- as.data.frame(matrix(NA, nrow = 0, ncol = 3))
-colnames(Table00.outline) <- c("Chapter", "Representative Themes", "Chapter Leads")
-
-#Specify rows of the table
-Table00.outline[1,] <- c("(1) Introduction and purpose", "Need for engineering-oriented NBS guidance, audience, geographic scope. Defining NBS and providing a typology of NBS.", "McKay, Corwin, Dorman")  
-Table00.outline[2,] <- c("(2) Qualitative foundations of project planning", "Engineering principles, systems context, primary and secondary design objectives, risk tolerance, constraints, design maturity targets, site assessment
-.", "TBD")  
-Table00.outline[3,] <- c("(3) Engagement by engineers", "Project management, interdisciplinary dialog, ways of knowing, ladder of participation, facilitation, co-production", "TBD")  
-Table00.outline[4,] <- c("(4) Site assessment", "TBD", "TBD") 
-Table00.outline[5,] <- c("(5) Analysis of NbS", "Levels of effort, assessing outcomes/benefits, project performance, monetary cost, non-monetary cost", "TBD")  
-Table00.outline[6,] <- c("(6) Alternatives Analysis", "Management measures, alternative development, decision support, trade-off analysis", "TBD")  
-Table00.outline[7,] <- c("(7) Performance-based Design", "Iterative workflows, integrated modeling, hazard resilience and reliability, adaptability", "TBD")  
-Table00.outline[8,] <- c("(8) Constructability", "Material selection, regulatory requirements, developing specifications, construction oversight", "TBD")  
-Table00.outline[9,] <- c("(9) Adaptive Management", "Compliance monitoring, performance monitoring, adaptive management, transition to operations", "TBD")  
-Table00.outline[10,] <- c("(10) Asset Management", "Condition assessment and inspection, operations, maintenance, repair, rehabilitation, decommissioning, life cycle budgeting", "TBD")  
-
-#Send output table rows into a single matrix
-rownames(Table00.outline) <- NULL
-knitr::kable(Table00.outline, align="llc")
 ```
 
 
