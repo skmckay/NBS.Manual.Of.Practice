@@ -6,10 +6,11 @@ Author1, Author2, and Author3
 
 Key topics:  
 
-- Building context on socio-ecological-technical systems  
+- Building context on socio-ecological-technical systems. What processes are ongoing?  
 - Collecting data on ecological systems as well as infrastructure  
-- Identifying site constraints  
-- Initiating the process of "do no harm"  
+- Identifying site constraints. Design constraints in terms of infrastructure. Ecological constraints of the site. Are there site conditions where a "do no harm" principle applies?  
+- Harnessing and integrating multiple data streams (e.g., remote sensing, data compilation, in situ).  
+- Lead readers to defining what the site can accommodate on a gradient of natural to hardened solutions.
 
 
 ## Example Heading 2

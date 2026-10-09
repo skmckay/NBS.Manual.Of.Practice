@@ -17,9 +17,9 @@ colnames(Table00.outline) <- c("Chapter", "Representative Themes", "Chapter Lead
 
 #Specify rows of the table
 Table00.outline[1,] <- c("(1) Introduction and purpose", "Need for engineering-oriented NBS guidance, audience, geographic scope. Defining NBS and providing a typology of NBS.", "McKay, Corwin, Dorman")  
-Table00.outline[2,] <- c("(2) Qualitative foundations of project planning", "Engineering principles, systems context, primary and secondary design objectives, risk tolerance, constraints, design maturity targets, site assessment.", "TBD")  
+Table00.outline[2,] <- c("(2) Qualitative foundations of project planning", "Engineering principles, systems context, primary and secondary design objectives, risk tolerance, constraints, design maturity targets.", "TBD")  
 Table00.outline[3,] <- c("(3) Engagement by engineers", "Project management, interdisciplinary dialog, ways of knowing, ladder of participation, facilitation, co-production", "TBD")  
-Table00.outline[4,] <- c("(4) Site assessment", "TBD", "TBD") 
+Table00.outline[4,] <- c("(4) Site assessment", "Developing systems context. Compiling and integrating data. Identifying site constraints. Using site assessment to define availability of green-to-grey methods.", "TBD") 
 Table00.outline[5,] <- c("(5) Analysis of NbS", "Levels of effort, assessing outcomes/benefits, project performance, monetary cost, non-monetary cost", "TBD")  
 Table00.outline[6,] <- c("(6) Alternatives Analysis", "Management measures, alternative development, decision support, trade-off analysis", "TBD")  
 Table00.outline[7,] <- c("(7) Performance-based Design", "Iterative workflows, integrated modeling, hazard resilience and reliability, adaptability", "TBD")  
@@ -35,7 +35,7 @@ knitr::kable(Table00.outline, align="llc")
 
 ## Roles and Responsibilities  {-}
 
-What are people signed up for?
+What are people signed up for? How were groups picked? Science vs practice, geography, discipline, positionality, engr leadership. 
 
 ```{r tab-roles, tab.cap="Proposed outline for a manual of practice on nature-based solutions"}
 #Create empty table
