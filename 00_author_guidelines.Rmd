@@ -5,7 +5,10 @@
 Insert content on issues like:  
 
 - ASCE MOP process  
+- Decision process  
 - Style  
 - Color schemes  
 - Figures and tables  
 - Document download and editing
+
+

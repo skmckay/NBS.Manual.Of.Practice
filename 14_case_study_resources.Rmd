@@ -1,0 +1,19 @@
+# Case Study Resources {-}
+
+Many practitioners like to see example projects and follow these as a template for design. These resources compile case studies into synthesis documents for use by practitioners.  
+
+- [Engineering With Nature Atlas Series](https://ewn.erdc.dren.mil/atlas-series/)  
+- [Engineering With Nature Innovation Handbook](https://ewn.erdc.dren.mil/publications/archive/engineering-with-nature-proving-grounds-innovation-handbook/)  
+- [NATURA Global Roadmap for Urban Nature-based Solutions](https://www.nbsroadmap.org/)  
+- [US Department of Interior NBS case studies](https://nicholasinstitute.duke.edu/nature-based-solutions-roadmap/case-study-search)
+- [Audubon Nature Works](https://media.audubon.org/2025-11/NatureWorks_final_20251106.pdf?_gl=1*kqm0c4*_gcl_au*MjA4NTg4MjQ4Ni4xNzcwMjEwMjA0*_ga*MTQ1MzQ3MTM2OC4xNzcwMjEwMjA1*_ga_X2XNL2MWTT*czE3NzAyMTAyMDQkbzEkZzAkdDE3NzAyMTAyMDQkajYwJGwwJGgw)  
+- [Case study platform from the Nature Based Solutions Initiative](https://casestudies.naturebasedsolutionsinitiative.org/case-search/)  
+- [Inter-American Development Bank examples from Latin America and the Caribbean](https://publications.iadb.org/en/nature-based-solutions-latin-america-and-caribbean-support-inter-american-development-bank) (Appendix A)  
+- [City Adapt database for Latin America](https://cityadapt.com/en/nbs-implemented/)  
+- [National River Restoration Science Synthesis](https://khondula.github.io/nrrss/)  
+- [International Stormwater BMP Database](https://bmpdatabase.org/)  
+- [Duke's NBS Financing case study database](https://nicholasinstitute.duke.edu/project/nature-finance-case-study-library)  
+- [Nature-based infrastructure global resource centre's database](https://nbi.iisd.org/database/)  
+- [ICSI's Climate Resilient Infrastructure case studies](https://sustainability-coalition.org/wp-content/uploads/2024/06/Climate-Resilient-Infrastructure_A-Focus-on-Nature_Issue-2.pdf)  
+- [UK Catchment Planning Programme](https://environment.data.gov.uk/catchment-planning)  
+- [Naturally Resilient Communities](https://nrcsolutions.org/strategies/)

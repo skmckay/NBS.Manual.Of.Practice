@@ -11,7 +11,10 @@ colnames(acronyms) <- c("Acronym", "Description")
 
 #Specify rows of the table
 acronyms[1,] <- c("ASCE", "American Society of Civil Engineers")
-acronyms[2,] <- c("NBS", "Nature-Based Solutions")
+acronyms[2,] <- c("EWRI", "ASCE's Environment and Water Reosurces Institute")
+acronyms[3,] <- c("MOP", "Manual of Practice")
+acronyms[4,] <- c("NBS", "Nature-Based Solutions")
+acronyms[5,] <- c("NI", "Natural Infrastructure")
 
 #Send output table rows into a single matrix
 rownames(acronyms) <- NULL
@@ -22,3 +25,10 @@ knitr::kable(acronyms, align="cl")
 ## Glossary  
 
 Insert terms.
+
+**Asset Management**: (ISO 55000).  
+
+**Nature-based solution**: (ASCE Policy Statement, White House, IUCN, EU).  
+
+**Natural infrastructure**: (McKay et al. 2023)
+

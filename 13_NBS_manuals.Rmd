@@ -1,0 +1,149 @@
+# Existing NBS Manuals {-}
+
+Designers and engineers implementing NBS projects often rely on a variety of forms of technical guidance when executing these projects. However, "guidance" is a huge spectrum of knowledge sharing mechanisms from informal, peer-to-peer learning to formal, international standards ([Corwin et al. 2026](https://ascelibrary.org/doi/10.1061/AOMJAH.AOENG-0068)).
+
+This site compiles a variety of technical guidance documents associated with planning, design, and construction of nature-based solutions. The list of resources focuses primarily on topics related to engineering and design, and other topics are largely neglected (e.g., financing, stakeholder engagement, etc.). The resources focus primarily on large-scale manuals usually led by government and non-profit organizations. Many wonderful journal papers have been omitted due to a more narrow focus on a specific case study, region, or dimension of design. **The site is not a comprehensive resource and is will evolve as the MOP is developed**. Inclusion on this site does not denote endorsement by the editors or ASCE. 
+
+## What is guidance on nature-based solutions? {-}
+
+A lack of NBS design guidance is often cited as a rationale for not including a feature in a given project (See survey of practitioners by [Ostrow et al. (2022)](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.923965/full)). However, many forms of engineering guidance exist for NBS, and three common themes seem to arise in the style of these documents. The following resources general align with these themes as engineers navigate multi-disciplinary project planning, alternatives analysis, and design of a given feature type. Additionally, I have included some case study databases because everyone I know likes a "go-by" when developing a design.
+
+
+```{r echo=FALSE}
+#Create empty table
+Table01 <- as.data.frame(matrix(NA, nrow = 4, ncol = 4))
+colnames(Table01) <- c("", "High-Level Guidance", "Alternatives Analysis", "Performance-Based Design")
+
+#Specify rows of the table
+Table01[1,] <- c("Goals of documents", "Defining the goals of NBS/NNBF; Thinking in systems; Articulating roles in life cycle execution; Presenting participatory processes", "Articulating problems; Defining objectives; Considering ranges of alternatives", "Developing specifications for one alternative; Discrete analytical steps and workflow; Defining performance thresholds")
+Table01[2,] <- c("Primary audiences", "All participants in NBS development", "Planners and engineers", "Engineers and operators")
+Table01[3,] <- c("Geographic scope", "Multiple ecosystems connected at the systems scale", "Defined problem in a given ecosystem type", "Specific alternative in a given location")
+Table01[4,] <- c("Example documents", "International NNBF Guidelines for Flood-Risk Management; WWF Flood Green Guide", "Wetlands Engr Handbook (Hayes et al. 2000); Floodplain Connectivity Technical Report", "USACE rubble mound manual; Floodplain Benching Technical Report")
+
+#Send output table rows into a single matrix
+rownames(Table01) <- NULL
+knitr::kable(Table01, caption="Overview of common types of design guidance documents.", align="c") 
+```
+
+
+## High-level, overview resources {-}
+
+Repositories and hubs of information:  
+
+- [IUCN Nature-Based Solutions Homepage](https://inbs.iucn.org/)  
+- [USACE's Engineering with Nature Initiative](https://ewn.erdc.dren.mil/)  
+- [Network for Engineering with Nature](https://n-ewn.org/)  
+- [Nature-based solutions for Urban Resilience in the Anthropocene (NATURA) Network](https://natura-net.org/)  
+- [EcoShape](https://www.ecoshape.org/en/)  
+- [Conservation International's Green-Gray Community of Practice](https://www.conservation.org/projects/global-green-gray-community-of-practice)  
+- [PIANC's Working With Nature Initiative](https://www.pianc.org/working-with-nature/)  
+- [Green Infrastructure Leadership Exchange](https://giexchange.org/)
+- [Nature-based infrastructure global resource centre](https://nbi.iisd.org/)  
+- [Canada's natural assets initiative](https://naturalassetsinitiative.ca/)  
+- [Greening Transportation Infrastructure Development (GRID)](https://gridip.org/)
+
+Planning and project initiation manuals:
+
+- [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/)  
+- [Australian manual on flood mitigation](https://iceds.anu.edu.au/news-events/news/nature-based-solutions-flood-mitigation-australia-national-guidelines)  
+- [US Department of Interior's NBS Roadmap](https://nicholasinstitute.duke.edu/project/nature-based-solutions-roadmap)
+- [World Wildlife Foundation's Flood Green Guide](https://www.worldwildlife.org/publications/natural-and-nature-based-flood-management-a-green-guide/)
+
+
+## Alternative Analysis Resources {-}
+
+These are resources for helping engineers and designers navigate alternatives analysis. These documents typically focus on a given problem type (e.g., floodplain management) and present a variety of alternatives with the relative benefits of each described. This list is very incomplete and will be supplemented as the MOP develops.
+
+**REORGANIZE THESE AROUND THE TYPOLOGY PRESENTED IN CHAPTER 1**
+
+- Floodplain management  
+  - Analysis of Potential Actions to Enhance Floodplain Connectivity (Nash et al. *forthcoming*)  
+  - [Flood diversions and bypasses: Benefits and challenges (Serra-Llobet et al. 2021)](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1562)  
+  - [TNC Oxbow reconnection toolkit](https://www.nature.org/content/dam/tnc/nature/en/documents/Oxbow-Restoration-Toolkit.pdf)  
+
+- Bank Stabilization  
+  - [German Federal Waterways materials](https://ufersicherung-baw-bfg.baw.de/index-en.html)  
+  - [United Kingdom Estuary Edges Approach](https://www.estuaryedges.co.uk/)  
+  - [U.S. Federal Interagency Stream Restoration Working Group (1997)](https://www3.uwsp.edu/cnr-ap/UWEXLakes/PublishingImages/resources/restoration-project/StreamRestorationHandbook.pdf)  
+  - [US Department of Agriculture engineering manual for stream restoration](https://policy.nrcs.usda.gov/searchdirective/210%20H%20Part%20654)
+  - [US Bureau of Reclamation (2015)](https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/A-BankStab-final6-25-2015.pdf)  
+  - [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)  
+  - [US National Large Wood Manual](https://ewn.erdc.dren.mil/publications/archive/national-large-wood-manual/)  
+  - [USACE bioengineering for streambank erosion control (Allen and Leech 1997)](https://www.engr.colostate.edu/~bbledsoe/CIVE413/Bioengineering_for_Streambank_Erosion_Control_report1.pdf)  
+  - [NCHRP Environmentally Sensitive Channel- and Bank-Protection Measures (McCullah and Gray 2005)](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)
+  - [NRCS Engineering Field Handbook - Streambank and shoreline protection (Sotir 1996)](https://irrigationtoolbox.com/NEH/Part650_EngineeringFieldHandbook/H_210_650_16.pdf)  
+  - PIANC Committee on Technical-Biological bank stabilization  
+    - [Part 1: Basics of a best practice approach](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-1-basics-of-a-best-practice-approach/)    
+    - [Part 2: Library of measures](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-2-library-of-measures/)  
+    - [Part 3: Decision support advice](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-3-decision-support-advice/)  
+
+- River modification and stream restoration  
+  - [Hydraulic design of stream restoration projects (Copeland et al. 2001)](https://erdc-library.erdc.dren.mil/items/81b728f7-6fee-4ef8-e053-411ac80adeb3)  
+  - [Channel restoration design for meandering rivers (Soar and Thorne 2001)](https://erdc-library.erdc.dren.mil/items/81b728f7-5f5f-4ef8-e053-411ac80adeb3)
+  - [Channel design process (Haring and Biedenharn 2025)](https://erdc-library.erdc.dren.mil/items/2eb705a7-1941-4f00-8f35-34c64199c2a9)  
+  - [NRCS Stream Restoration Handbook (2007)](https://www.epa.gov/system/files/documents/2022-11/U.S.%20Department%20of%20Agriculture%2C%20Stream%20Restoration%20Design.pdf)  
+  - [Federal Interagency Stream Restoration Working Group (1998)](https://www.thecre.com/fedlaw/legal14water/stream_restoration.htm)  
+  - [USFS Guidance for Stream Restoration (Yochum 2018)](https://www.fs.usda.gov/biology/nsaec/assets/yochumusfs-nsaec-tn102-4guidancestreamrestoration.pdf)  
+  - [USACE stream investigation and streambank stabilization handbook (Biedenharn et al. 1997)](https://www.engr.colostate.edu/~pierre/ce_old/classes/ce717/WES%20Streambank%20Handbook.pdf)
+  - [Design of River Training Structures Using Isogeomorphic Constraints](https://dx.doi.org/10.21079/11681/50042)  
+  - [Iowa River Restoration Toolbox](https://www.iowadnr.gov/environmental-protection/water-quality/river-restoration)
+  - [Philadelphia stream and ecological restoration design resources](https://water.phila.gov/contractors/ecological-restoration/)  
+  - [NCHRP Guidance for Design Hydrology for Stream Restoration and Channel Stability (Bledsoe et al. 2017)](https://www.nationalacademies.org/publications/24879)
+  
+- Wetland design  
+  - [Wetlands Engineering Handbook (Hayes et al. 2000)](https://erdc-library.erdc.dren.mil/items/81b728f7-7371-4ef8-e053-411ac80adeb3)
+  - EPA Wetland Creation and Restoration guidance (Kusler and Kentula 1989): [Volume 1](https://www.nawm.org/pdf_lib/wetland_creation_restoration_vol_1.pdf), [Volume 2](https://www.epa.gov/sites/default/files/2015-08/documents/wetland_creation_and_restoration_-_the_status_of_the_science_vol_2_1.pdf)  
+  - [Interagency guidance on wetland creation (2003)](https://www.csu.edu/cerc/documents/AnIntroductionandUsersGuidetoWetlandsRestoration.pdf)
+  - [Federal Highways Administration wetland functional design manual (1990)](https://www.intrans.iastate.edu/wp-content/uploads/sites/10/2019/01/PB91110569.pdf)
+
+- Ports and harbors  
+  - [Nature-Based Solutions for Ports: An Overview of NBS Implementation in Practice - Opportunities and Challenges](https://openknowledge.worldbank.org/entities/publication/f6e6b4cb-74c0-4bef-ab5c-da6cc0bdbebe)  
+  - [TNC's Sediment Strategies](https://www.nature.org/en-us/about-us/where-we-work/united-states/maryland-dc/stories-in-maryland-dc/sediment-strategies/)  
+
+- Stormwater management  
+  - [West Point Military Academy's stormwater inspection and maintenance guide](https://dx.doi.org/10.21079/11681/46933)  
+  - [Columbus Ohio's Inspection & Maintenance Guidance for Stormwater Control Practices](https://www.columbus.gov/files/sharedassets/city/v/1/utilities/documents/sewer-publications/scp-inspection-and-maintenance-manual.jan-2022.pdf)  
+  - [Philadelphia Stormwater Management Design Manual](https://water.phila.gov/development/stormwater-plan-review/manual/)
+
+- Coastal engineering resources (extremely cherry-picked and mostly for context)  
+  - [USACE Coastal Engineering Manual](https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/u43544q/636F617374616C20656E67696E656572696E67206D616E75616C/)  
+  - [USACE design of coastal revetments, seawalls, and bulkheads](https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM_1110-2-1614.pdf)  
+  - [Emergent vegetation in coastal infrastructure (Ostrow et al. 2022)](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.923965/full)  
+  - [New Jersey living shoreline manual (2022)](https://www.nj.gov/dep/bcrp/docs/njlseg-update.pdf)  
+  - [Texas General Land Office living shorelines guide](https://www.glo.texas.gov/coastal/living-shorelines)
+  - [Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/)
+  - [Federal Highways Administration shoreline erosion design guide (Webb et al. 2019)](https://rosap.ntl.bts.gov/view/dot/43591)  
+  - [Coastal Wiki](https://www.coastalwiki.org/wiki/Main_Page)
+  - [Low cost shore protection...A Property owner's guide (USACE 1982)](https://apps.dtic.mil/sti/tr/pdf/ADA112531.pdf)  
+  - [Low cost shore protection...A guide for engineers and contractors (USACE update)](https://dnr.maryland.gov/ccs/documents/ls/armycorps_contractorsguide.pdf)  
+  - [Shore erosion control guidelines for waterfront property owners, 2nd Edition (Maryland 2008)](https://dnr.maryland.gov/ccs/Publication/shoreerostext.pdf)
+  - [Dynamic revetment (Bond 2026)](https://ir.library.oregonstate.edu/downloads/tx31qt61f)  
+  - [Living shorelines for Florida: A practical guide for building coastal resilience](https://floridapress.org/9781683405504/living-shorelines-for-florida/) 
+
+- Transportation resources (extremely cherry-picked and mostly for context)  
+  - [Stream Crossings for People, Fish, and Wildlife](https://www.policyinnovation.org/insights/built-to-last)  
+
+
+## Performance-based Design of Features {-}
+
+These manuals typically focus on implementing a specific type of feature and include detail on topics like material sizing, specifying geometry, etc.  
+
+- [Floodplain benching design guide (Curran et al. 2025)](https://erdc-library.erdc.dren.mil/items/572b93a1-cc6c-4ca9-916d-a830cb2439d5)
+- [Design of low flow channels (Fischenich 2002)](https://erdc-library.erdc.dren.mil/items/81b728f7-667f-4ef8-e053-411ac80adeb3)  
+- Two-stage ditching (Powell et al. 2007): [Part 1](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435962), [Part 2](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435963)  
+- [Mangroves and wave overtopping (Ostrow et al. 2026)](https://ascelibrary.org/doi/full/10.1061/AOMJAH.AOENG-0092)
+- Oyster reefs  
+- [USACE Engineering Design Guidance for Detached Breakwaters as Shoreline Stabilization Structures (Chasten et al. 1993)](https://digital.library.unt.edu/ark:/67531/metadc304011/m2/1/high_res_d/metadc304011.pdf)
+
+
+## Regional Design Resources {-}
+
+Some design resources focus on a regional scope rather than a topical one. The manuals are some examples of a regionally focused approach to design guidance.  
+
+- [Sonoma County BMP Guide](https://permitsonoma.org/divisions/naturalresources/stormwaterandwaterqualityprograms/bestmanagementpractices/bestmanagementpracticeguide)  
+- [Sonoma County Flood Management Design Manual](https://www.sonomawater.org/media/PDF/Water%20Resources/Flood%20Protection/Flood%20Management%20Design%20Manual/FMDM_Main_Body_Mar2020_ADA%20v2.pdf)  
+- [Orange County Flood Control District Design Manual](https://ocip.ocpublicworks.com/sites/ocpwocip/files/2023-02/OCFCD%20DM%20-%202nd%20Ed_0.pdf)  
+- [Upper Mississippi River restoration design manual](https://www.mvr.usace.army.mil/Portals/48/docs/Environmental/UMRR/HREP/EMP_Documents/2012%20UMRR%20EMP%20Environmental%20Design%20Handbook%20-%20FINAL.pdf) 
+- [Washington DFW stream habitat restoration guidelines (WDFW 2012)](https://wdfw.wa.gov/sites/default/files/publications/01374/wdfw01374.pdf)  
+- [Texas Water Development Board NBS Manual](https://www.twdb.texas.gov/flood/planning/resources/index.asp#nbs)  
+- [Maine Guide for Shoreline Stabilization](https://www.maine.gov/dep/land/ourshore/docs/OUR-SHORE-Guide.pdf)

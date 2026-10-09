@@ -1,0 +1,36 @@
+# Qualitative Foundations of Project Planning
+
+Author1, Author2, and Author3
+
+<span style="color: red;">ALL CONTENT IN THIS REPORT IS PRELIMINARY AND DRAFT. DO NOT REFERENCE FOR ANY PURPOSE.</span>
+
+Key topics:  
+
+- Existing guidelines and standards (global, national, and regional).  
+- Principles of engineering design of NBS  
+- Building systems context: physical, ecological, social.  
+- Design objectives: primary vs. secondary outcomes, performance goals and risk
+tolerance.  
+- Life cycle targets Defining NbS for engineering applications.  
+
+## Example Heading 2
+
+Content goes here.  
+
+### Example Subheading
+
+Content goes here. Figure \@ref(fig:fig-ASCE2) automatic referencing looks like this. 
+
+```{r fig-ASCE2, fig.cap="Example of another figure"}
+knitr::include_graphics("images/00_ASCE_logo.png")
+```
+
+## Potential References
+
+Cohen-Shacham, E., Andrade, A., Dalton, J., Dudley, N., Jones, M., Kumar, C., Maginnis, S., Maynard, S., Nelson, C.R., Renaud, F.G. and Welling, R., 2019. Core principles for successfully implementing and upscaling Nature-based Solutions. Environmental Science & Policy, 98, pp.20-29.
+
+Hall, D.M. and van Rees, C.B., 2026. Implementing nature-based solutions requires distinguishing place from space. Ambio, pp.1-18.  
+
+Nesshöver, C., Assmuth, T., Irvine, K.N., Rusch, G.M., Waylen, K.A., Delbaere, B., Haase, D., Jones-Walters, L., Keune, H., Kovacs, E. and Krauze, K., 2017. The science, policy and practice of nature-based solutions: An interdisciplinary perspective. Science of the total environment, 579, pp.1215-1227.
+
+de Vries J., Reed D., McKay S.K., Bouma T., Cunniff S.E., Grasmeijer B., Mason P., Nicholson A., Quinn P., and Smith J.M. 2021. Planning and Implementing NNBF Using a Systems Approach. [Chapter 4](https://ewn.erdc.dren.mil/nnbf-guidelines/04-planning-and-implementing-nnbf-using-a-systems-approach/) in [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/). Edited by T. S. Bridges, J. K. King, J. D. Simm, M. W. Beck, G. Collins, Q. Lodder, and R. K. Mohan. Vicksburg, MS: U.S. Army Engineer Research and Development Center.

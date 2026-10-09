@@ -1,7 +1,7 @@
 ---
 title: "An Engineering Manual of Practice for Nature-Based Solutions"
 authors: "S. Kyle McKay, Emily Corwin, and Troy Dorman"
-Date: "September 2026"
+Date: "October 2026"
 site: bookdown::bookdown_site
 \documentclass: book
 output:
@@ -15,12 +15,16 @@ github-repo: skmckay/NBS.Manual.Of.Practice
 
 ## What is this document? {-}
 
-Introduce NBS.  
-Introduce ASCE.  
-Describe a manual of practice.  
-Lay out how this manual fits between interdisciplinary guidance (e.g., International Guidelines for NNBF) and feature-specific guidance (e.g., floodplain benching manuals).  
-Describe the role of subsequent NBS manuals (i.e., Appendices to this document?).  
+Infrastructure and environmental managers are increasingly coping with diverse challenges ranging from biodiversity loss and climate change to invasive species and aging infrastructure. These overlapping forms of global change need strategies that embrace ecological outcomes alongside society’s needs for working landscapes. Nature-based solutions (NBS) have emerged as a key pathway for addressing multiple objectives in parallel. NBS, also known as natural or green infrastructure, have have four properties, not all of which may be met by all features : (1) they provide infrastructure functions and services, (2) they consist at least in part of biotic components, (3) they are designed intentionally to achieve environmental, societal, and economic outcomes, and (4) they foster resilience through self-organization.
 
+Designers and engineers implementing infrastructure projects rely on a variety of forms of technical guidance. However, “guidance” spans a huge spectrum of knowledge sharing mechanisms from informal, peer-to-peer learning to formal, international standards. While a variety of interdisciplinary guidelines exist, a lack of engineering design guidance is often cited as slowing the adoption of NBS. 
+
+The American Society of Civil Engineers (ASCE) has initiated development of a manual of practice focused on an engineer’s role in developing and executing NBS projects. In 2025, ASCE partnered with Duke University’s Infrastructure Sustainability and Learning Initiative to develop an outline for a manual of practice (MOP), and in early 2026, the society identified editors and other participants to advance the development of the manual. The general strategy for manual development is to assemble a team and secure funding in 2026, draft content in 2027, and review and publish the manual in 2028. Ultimately, this MOP will provide engineers with the discipline-specific guidance needed to plan, design, and execute projects, establish the professional “standard of care” for NBS, and normalize the use of NBS by municipalities, states, and other infrastructure agencies.
+
+**To be added**:  
+
+- Lay out how this manual fits between interdisciplinary guidance (e.g., International Guidelines for NNBF) and feature-specific guidance (e.g., floodplain benching manuals).  
+- Describe the role of subsequent NBS manuals (i.e., Appendices to this document?).  
 
 ## Points of contact {-}
 

@@ -1,3 +1,4 @@
+tab:tab-roles
 tab:tab-outline
 fig:fig-manual-timeline
 fig:fig-nbs-definitions
@@ -6,6 +7,7 @@ fig:fig-guidance-hierarchy
 tab:tab-scope
 fig:fig-ASCE2
 tab:unnamed-chunk-2
+tab:unnamed-chunk-3
 introduction
 the-context-for-nature-based-solutions
 what-is-the-scope-of-natural-infrastructure
@@ -17,11 +19,14 @@ topical-focus
 geographic-scope
 audience
 development-process
-foundations-of-nature-based-solutions
+qualitative-foundations-of-project-planning
 example-heading-2
 example-subheading
-qualitative-foundations-of-project-planning
+potential-references
 engagement-supporting-nbs-design
+site-assessment-for-nature-based-solutions
+example-heading-2-1
+example-subheading-1
 analysis-of-nature-based-solutions
 alternative-analysis-and-decision-support
 performance-based-design
