@@ -9,6 +9,6 @@ Key topics:
 - Aligning levels of effort.  
 - Assessing project outcomes: economic, ecological, social.  
 - Assessing project performance: stability, resilience, sustainability.  
-- Estimating cost: capital, adaptive management, operations and maintenance, end of life.  
+- Estimating cost: capital, adaptive management, operations and maintenance, end of life. Economic issues like discounting and life span.  
 - Non-monetary costs: social capital, political will, reversibility.  
 

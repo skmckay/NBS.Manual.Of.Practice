@@ -19,7 +19,7 @@ topical-focus
 geographic-scope
 audience
 development-process
-qualitative-foundations-of-project-planning
+foundations-of-project-planning
 example-heading-2
 example-subheading
 potential-references
@@ -27,11 +27,13 @@ engagement-supporting-nbs-design
 site-assessment-for-nature-based-solutions
 example-heading-2-1
 example-subheading-1
+potential-references-1
 analysis-of-nature-based-solutions
 alternative-analysis-and-decision-support
 performance-based-design
 constructability
 project-establishment
 asset-management
+potential-references-2
 acronyms
 glossary

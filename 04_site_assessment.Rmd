@@ -7,9 +7,10 @@ Author1, Author2, and Author3
 Key topics:  
 
 - Building context on socio-ecological-technical systems. What processes are ongoing?  
-- Collecting data on ecological systems as well as infrastructure  
+- Collecting data on ecological systems as well as infrastructure.  
 - Identifying site constraints. Design constraints in terms of infrastructure. Ecological constraints of the site. Are there site conditions where a "do no harm" principle applies?  
 - Harnessing and integrating multiple data streams (e.g., remote sensing, data compilation, in situ).  
+- Evolution of site assessment as level of design increases.  
 - Lead readers to defining what the site can accommodate on a gradient of natural to hardened solutions.
 
 
@@ -20,3 +21,11 @@ Content goes here.
 ### Example Subheading
 
 Content goes here. Figure \@ref(fig:fig-ASCE2) automatic referencing looks like this. 
+
+## Potential References
+
+SF living shorelines manual (forthcoming).
+
+Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. ERDC TR-25-15. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+Godsey, E.S., Everett, C.L., Tritinger, A.S., Bryant, D.B., Altman, S., Sowers, A.A., Bassetti, L., Bruck, J. and Bonura, C., 2026. Engineering practice guide for oyster reefs: a natural infrastructure approach for coastal systems.

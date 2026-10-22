@@ -1,4 +1,4 @@
-# Qualitative Foundations of Project Planning
+# Foundations of Project Planning
 
 Author1, Author2, and Author3
 
@@ -6,12 +6,12 @@ Author1, Author2, and Author3
 
 Key topics:  
 
-- Existing guidelines and standards (global, national, and regional).  
-- Principles of engineering design of NBS  
-- Building systems context: physical, ecological, social.  
-- Design objectives: primary vs. secondary outcomes, performance goals and risk
-tolerance.  
-- Life cycle targets Defining NbS for engineering applications.  
+- Existing guidelines and standards (global, national, and regional). See [Appendix](https://skmckay.github.io/NBS.Manual.Of.Practice/existing-nbs-manuals.html).  
+- Principles of engineering design of NBS. See King et al. (2021).  
+- Building systems context: physical, ecological, social. Designing at local and systems scales (de Vries et al. 2021, Hall and van Rees 2026).  
+- Design maturity.  
+- Design objectives: primary vs. secondary outcomes, performance goals and risk tolerance.  
+- Life cycle targets for design life and levels of services.  
 
 ## Example Heading 2
 

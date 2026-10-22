@@ -6,6 +6,18 @@ Author1, Author2, and Author3
 
 Key topics:  
 
+- Inspection.  
 - Operations, maintenance, repair, replacement, and rehabilitation.  
-- Investment triggers and life cycle budgeting.  
+- Investment triggers and life cycle budgeting. Opex vs. CapEx.  
+- Life cycle modeling.  
 - End of life: decommissioning, removal
+
+
+## Potential References
+
+ISO
+
+Canadian MNAI
+
+City of Austin docs.
+
