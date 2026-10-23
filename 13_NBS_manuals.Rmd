@@ -99,11 +99,13 @@ These are resources for helping engineers and designers navigate alternatives an
 - Ports and harbors  
   - [Nature-Based Solutions for Ports: An Overview of NBS Implementation in Practice - Opportunities and Challenges](https://openknowledge.worldbank.org/entities/publication/f6e6b4cb-74c0-4bef-ab5c-da6cc0bdbebe)  
   - [TNC's Sediment Strategies](https://www.nature.org/en-us/about-us/where-we-work/united-states/maryland-dc/stories-in-maryland-dc/sediment-strategies/)  
+  - [New Jersey Beneficial Use Manual](https://cait.rutgers.edu/wp-content/uploads/2026/10/cait-njdot-beneficial-use-of-dredged-material-in-coastal-nj.pdf)
 
 - Stormwater management  
   - [West Point Military Academy's stormwater inspection and maintenance guide](https://dx.doi.org/10.21079/11681/46933)  
   - [Columbus Ohio's Inspection & Maintenance Guidance for Stormwater Control Practices](https://www.columbus.gov/files/sharedassets/city/v/1/utilities/documents/sewer-publications/scp-inspection-and-maintenance-manual.jan-2022.pdf)  
-  - [Philadelphia Stormwater Management Design Manual](https://water.phila.gov/development/stormwater-plan-review/manual/)
+  - [Philadelphia Stormwater Management Design Manual](https://water.phila.gov/development/stormwater-plan-review/manual/)  
+  - [NJ Stormwater Best Management Practices Manual 2026](https://dep.nj.gov/stormwater/stormwater-management/bmp-manual/nj-stormwater-best-management-practices-manual-2026/)
 
 - Coastal engineering resources (extremely cherry-picked and mostly for context)  
   - [USACE Coastal Engineering Manual](https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/u43544q/636F617374616C20656E67696E656572696E67206D616E75616C/)  
